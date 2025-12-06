@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![F1](https://img.shields.io/badge/F1-Data-red?style=for-the-badge)
 
-A data analysis project visualizing the intense 2025 Formula 1 Championship fight between **Max Verstappen (Red Bull)**, **Lando Norris (McLaren)**, and **Oscar Piastri (McLaren)**.
+A data analysis project visualizing the intense 2025 Formula 1 Championship fight between **Max Verstappen (Red Bull)**, **Lando Norris (McLaren)**, and **Oscar Piastri (McLaren)** before the very last race of the season.
 
 Using the **FastF1** Python library, this project scrapes telemetry data from all 23 completed rounds (only 1 race remaining to determine the CHAMPION) to reveal the momentum shifts throughout the season.
 
