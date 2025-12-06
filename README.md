@@ -62,12 +62,14 @@ python collect_data.py
 python visualize.py
 ```
 
-📂 Project Structure
+## 📂 Project Structure
+```text
 ├── collect_data.py                   # Script to download and process F1 telemetry data
 ├── visualize.py                      # Script to generate plots using Seaborn/Matplotlib
 ├── f1_2025_champ_data.csv            # The processed dataset (output of step 1)
 ├── 2025_Championship_Analysis.png    # The final chart (output of step 2)
 └── README.md                         # Project documentation
+```
 
-📜 License
+## 📜 License
 This project uses data provided by the open-source FastF1 library.
